@@ -9,6 +9,9 @@
 <a href="https://www.linkedin.com/in/arhaankhaku/">
   <img src="LI-In-Bug.png" alt="LinkedIn" width="50" height="50">
 </a>
+<a href="arhaan1905@gmail.com">
+  <img src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-1024.png" alt="email" width="50" height="50">
+</a>
 
 
 
