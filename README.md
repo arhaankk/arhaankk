@@ -47,7 +47,7 @@ I'm Arhaan, a sophomore at the University of British Columbia with a flair for m
 
 ## 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=contribs,prs)](https://github.com/arhaankk)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=arhaankk&show_icons=true&hide=contribs,prs)](https://github.com/arhaankk)
 
 ## 🤝 Let's Collaborate!
 
