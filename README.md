@@ -2,7 +2,8 @@
 
 # Arhaan Khaku
 
-[![LinkedIn](LI-In-Bug.png)](https://www.linkedin.com/in/arhaankhaku/) [![Dev](https://img.shields.io/badge/Twitter-YourHandle-blue)]((https://dev.to/arhaan_khaku_dab67587a017)) [![Email](https://img.shields.io/badge/Email-YourEmail-blue)](arhaan1905@gmail.com)
+[![LinkedIn](LI-In-Bug.png)](https://www.linkedin.com/in/arhaankhaku/){:height="50px" width="50px"} 
+[![Dev](https://img.shields.io/badge/Twitter-YourHandle-blue)]((https://dev.to/arhaan_khaku_dab67587a017)) [![Email](https://img.shields.io/badge/Email-YourEmail-blue)](arhaan1905@gmail.com)
 
 </div>
 
