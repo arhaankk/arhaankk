@@ -37,20 +37,20 @@ I'm Arhaan, a sophomore at the University of British Columbia with a flair for m
 
 ## 📚 Education
 
-- **[Your Degree]:** [University/Institution] | [Graduation Year]
+- **Bachelor of Science:** University of British Columbia | 2026
 
 ## 🌟 Interests
 
-- [Interest 1]
-- [Interest 2]
-- [Interest 3]
+- Machine Learning
+- Software Development
+- Web Development
 
 ## 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=contribs,prs)](https://github.com/YourUsername)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=contribs,prs)](https://github.com/arhaankk)
 
 ## 🤝 Let's Collaborate!
 
-I'm always open to exciting opportunities and collaborations. If you share a passion for [Your Interests], let's connect and create something amazing together!
+I'm always open to exciting opportunities and collaborations. If you share a passion for software development, let's connect and create something amazing together!
 
 Happy coding! 🚀
