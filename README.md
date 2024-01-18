@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Arhaan Khaku]
+# Arhaan Khaku
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/arhaankhaku/) [![Dev](https://img.shields.io/badge/Twitter-YourHandle-blue)]((https://dev.to/arhaan_khaku_dab67587a017)) [![Email](https://img.shields.io/badge/Email-YourEmail-blue)](arhaan1905@gmail.com)
 
@@ -8,7 +8,7 @@
 
 ## 👋 Hello, World!
 
-I'm [Your Name], a seasoned [Your Profession/Field] with a flair for [Your Interests]. I bring [X] years of experience in [Your Expertise Areas] and a track record of delivering impactful solutions.
+I'm Arhaan, a sophomore at the University of British Columbia with a flair for machine learning and data science. I bring few years of experience in deep learning and a track record of delivering impactful solutions.
 
 ## 🔧 Skills
 
@@ -16,19 +16,6 @@ I'm [Your Name], a seasoned [Your Profession/Field] with a flair for [Your Inter
 - **[Skill 2]:** Expertise in [Details]
 - **[Skill 3]:** Skilled in [Details]
 
-## 🚀 Experience
-
-### [Current Company/Organization]
-
-[Your Current Position/Role] | [Start Date] - Present
-
-Brief but compelling description of your responsibilities and key achievements.
-
-### [Previous Company/Organization]
-
-[Previous Position/Role] | [Start Date] - [End Date]
-
-Highlight notable achievements and experiences from this role.
 
 ## 🌱 Projects
 
