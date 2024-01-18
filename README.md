@@ -1,20 +1,15 @@
 <div align="center">
 
 # Arhaan Khaku
-
-
-[![Dev](https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png)]((https://dev.to/arhaan_khaku_dab67587a017)) [![Email](https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-1024.png)](arhaan1905@gmail.com)
-
-
 <a href="https://www.linkedin.com/in/arhaankhaku/">
   <img src="LI-In-Bug.png" alt="LinkedIn" width="50" height="50">
 </a>
 <a href="arhaan1905@gmail.com">
   <img src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-1024.png" alt="email" width="50" height="50">
 </a>
-
-
-
+<a href="(https://dev.to/arhaan_khaku_dab67587a017)">
+  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="Dev Community" width="50" height="50">
+</a>
 </div>
 
 ## 👋 Hello, World!
