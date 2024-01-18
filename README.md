@@ -3,7 +3,7 @@
 # Arhaan Khaku
 
 
-[![Dev](https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png)]((https://dev.to/arhaan_khaku_dab67587a017)) [![Email](https://img.shields.io/badge/Email-YourEmail-blue)](arhaan1905@gmail.com)
+[![Dev](https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png)]((https://dev.to/arhaan_khaku_dab67587a017)) [![Email](https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-1024.png)](arhaan1905@gmail.com)
 
 
 <a href="https://www.linkedin.com/in/arhaankhaku/">
