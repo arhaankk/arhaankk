@@ -2,7 +2,7 @@
 
 # [Arhaan Khaku]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/arhaankhaku/) [![Dev](https://img.shields.io/badge/Twitter-YourHandle-blue)]([Your Twitter Handle](https://dev.to/arhaan_khaku_dab67587a017)) [![Email](https://img.shields.io/badge/Email-YourEmail-blue)](arhaan1905@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/arhaankhaku/) [![Dev](https://img.shields.io/badge/Twitter-YourHandle-blue)]((https://dev.to/arhaan_khaku_dab67587a017)) [![Email](https://img.shields.io/badge/Email-YourEmail-blue)](arhaan1905@gmail.com)
 
 </div>
 
