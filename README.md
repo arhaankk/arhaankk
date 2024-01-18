@@ -7,7 +7,7 @@
 
 
 <a href="https://www.linkedin.com/in/arhaankhaku/">
-  <img src="LI-In-Bug.png" alt="LinkedIn" width="50" height="50">
+  <img src="LI-In-Bug.png" alt="LinkedIn" width="50" height="70">
 </a>
 
 
