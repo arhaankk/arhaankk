@@ -14,7 +14,7 @@
 
 ## 👋 Hello, World!
 
-I'm Arhaan, a sophomore at the University of British Columbia with a flair for machine learning and data science. I bring few years of experience in deep learning and a track record of delivering impactful solutions.
+I'm Arhaan, a sophomore at the University of British Columbia with a flair for machine learning and data science. I bring few years of experience in programming and a track record of delivering impactful solutions.
 
 ## 🔧 Skills
 
