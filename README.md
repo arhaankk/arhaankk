@@ -1,17 +1,22 @@
- Hi, I'm Arhaan Khaku 👋 
+# Hi, I'm Arhaan Khaku 👋
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=SStudent+at+University+of+British+Columbia;Major+in+Computer+Science;Minor+in+Data+Science">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=500&duration=2000&pause=1000&color=3AA4F7&random=false&width=435&lines=Student+at+University+of+British+Columbia;Major+in+Computer+Science;Minor+in+Data+Science;Researcher">
   </a>
 </p>
 
-[![Arhaan's github stats](https://github-readme-stats.vercel.app/api?username=Arhaankk&show_icons=true&theme=tokyonight)](https://github.com/Arhaankk)
-[![Arhaan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arhaankk&theme=tokyonight)](https://github.com/Arhaankk)
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arhaankk&theme=tokyonight)](https://github.com/Arhaankk)
-[![Github Stars](https://github-readme-stats.vercel.app/api?username=Arhaankk&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)](https://github.com/Arhaankk)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arhaankk&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arhaankk&theme=tokyonight">
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arhaankk&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arhaankk&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight">
+</p>
 
 I'm a third-year Computer Science student at the University of British Columbia, with a passion for building innovative software solutions and exploring the realms of data science. Welcome to my GitHub profile!
 
@@ -27,12 +32,12 @@ I'm a third-year Computer Science student at the University of British Columbia,
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Skills</b>
 
 <p align="center">
 
 - **Programming Languages**:
-
+    
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![Java](https://img.shields.io/badge/Java%20-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -75,6 +80,7 @@ I'm a third-year Computer Science student at the University of British Columbia,
 <p align="center">
    
  - **Version Control**:
+
 
     ![Git](https://img.shields.io/badge/Git%20-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
