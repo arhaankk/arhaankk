@@ -1,8 +1,11 @@
 # Hi, I'm Arhaan Khaku 👋
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=SStudent+at+University+of+British+Columbia;++;Major in Computer Science;Minor in Data Science;Student Developer;Active+Learner/Researcher,;Welcome"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&color=a397e6&size=25&center=true&vCenter=true&width=600&height=100&lines=Student+at+University+of+British+Columbia;Major+in+Computer+Science;Minor+in+Data+Science;Student+Developer;Active+Learner/Researcher;Welcome&speed=100" alt="Typing SVG">
+  </a>
 </p>
+
 
 
 <br>
