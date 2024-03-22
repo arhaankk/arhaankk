@@ -1,56 +1,43 @@
-<div align="center">
+# Hi, I'm Arhaan Khaku 👋
 
-# Arhaan Khaku
-<a href="https://www.linkedin.com/in/arhaankhaku/">
-  <img src="LI-In-Bug.png" alt="LinkedIn" width="50" height="50">
-</a>
-<a href="arhaan1905@gmail.com">
-  <img src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-1024.png" alt="email" width="50" height="50">
-</a>
-<a href="(https://dev.to/arhaan_khaku_dab67587a017)">
-  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="Dev Community" width="50" height="50">
-</a>
-</div>
+I'm a third-year Computer Science student at the University of British Columbia, with a passion for building innovative software solutions and exploring the realms of data science. Welcome to my GitHub profile!
 
-## 👋 Hello, World!
+🔭 **Currently Working On:** Exploring projects in web development, data analysis, and machine learning.
 
-I'm Arhaan, a sophomore at the University of British Columbia with a flair for machine learning and data science. I bring few years of experience in programming and a track record of delivering impactful solutions.
+🌱 **Learning:** Always eager to learn new technologies and expand my skillset.
 
-## 🔧 Skills
+👯 **Looking to Collaborate:** Interested in collaborating on open-source projects and exploring research opportunities.
 
-- **[Skill 1]:** Proficient in [Details]
-- **[Skill 2]:** Expertise in [Details]
-- **[Skill 3]:** Skilled in [Details]
+💬 **Let's Connect:** Feel free to reach out to me via email or LinkedIn!
 
+📫 **Contact:** [Email](arhaan1905@gmail.com) | [LinkedIn](https://www.linkedin.com/in/arhaankhaku)
 
-## 🌱 Projects
+---
 
-- **[Project 1]:** Brief description and link to the project.
-- **[Project 2]:** Brief description and link to the project.
-- **[Project 3]:** Brief description and link to the project.
+### Languages and Tools:
 
-## 💬 Let's Connect!
+- **Programming Languages:** Python, Java, JavaScript, Swift, C, Assembly Language, Objective-C
+- **Web Development:** HTML, CSS, JavaScript, React, Django
+- **Data Science:** Pandas, NumPy, Matplotlib, scikit-learn, R
+- **Database:** SQL
+- **Version Control:** Git
 
-- LinkedIn: [Your LinkedIn Profile](Your LinkedIn Profile Link)
-- Twitter: [Your Twitter Handle](Your Twitter Profile Link)
-- Email: [Your Email](mailto:you@example.com)
+---
 
-## 📚 Education
+### Projects:
 
-- **Bachelor of Science:** University of British Columbia | 2026
+- [Korse](#) - A React-based e-learning application.
+- [iCalc](#) - A simple calculator made using Apple Foundation Framework, written in Swift and Objective C.
+- [Sentiment Analysis](#) - Machine learning-based sentiment analysis of textual data.
 
-## 🌟 Interests
+---
 
-- Machine Learning
-- Software Development
-- Web Development
+### Education:
 
-## 📈 GitHub Stats
+- **Bachelor of Science** - University of British Columbia
+- Major in Computer Science
+- Minor in Data Science
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=arhaankk&show_icons=true&hide=contribs,prs)](https://github.com/arhaankk)
+---
 
-## 🤝 Let's Collaborate!
-
-I'm always open to exciting opportunities and collaborations. If you share a passion for software development, let's connect and create something amazing together!
-
-Happy coding! 🚀
+Thanks for stopping by! Let's connect and build amazing things together! 🚀
