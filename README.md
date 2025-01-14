@@ -99,7 +99,7 @@ I'm a third-year Computer Science student at the University of British Columbia,
 ---
 
 <p align="center">
-	<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
+	<img src="https://github.com/arhaankk/arhaankk/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
 </p>
 
 Thanks for stopping by! Let's connect and build amazing things together! 🚀
