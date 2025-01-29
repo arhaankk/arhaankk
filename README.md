@@ -95,6 +95,7 @@ I'm a third-year Computer Science student at the University of British Columbia,
 - [Korse](#) - A React-based e-learning application.
 - [iCalc](#) - A simple calculator made using Apple Foundation Framework - NSExpression, written in Swift and Objective C.
 - [SmartBites](#) - Mobile App for economical food solutions by reducing carbon emmisions and by going plant-based.
+- [Bolt](#) - An academic advisor built using Retrieval Augmented Generation to help students with academic advising needs
 
 ---
 
