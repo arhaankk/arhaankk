@@ -94,7 +94,7 @@ I'm a third-year Computer Science student at the University of British Columbia,
 
 - [Korse](#) - A React-based e-learning application.
 - [iCalc](#) - A simple calculator made using Apple Foundation Framework - NSExpression, written in Swift and Objective C.
-- [Sentiment Analysis](#) - Machine learning-based sentiment analysis of textual data.
+- [SmartBites](#) - Mobile App for economical food solutions by reducing carbon emmisions and by going plant-based.
 
 ---
 
